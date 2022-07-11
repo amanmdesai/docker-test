@@ -19,5 +19,4 @@ RUN apt-get update \
     libkrb5-dev \
     libldap2-dev \
     libmysqlclient-dev \
-    libpcre3-dev \
-    libpng-dev 
+    libpcre3-dev 
